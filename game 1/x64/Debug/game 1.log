@@ -1,0 +1,2 @@
+﻿test.obj : error LNK2019: 无法解析的外部符号 IsWin，函数 game 中引用了该符号
+D:\c++\练习\三子棋\game 1\x64\Debug\game 1.exe : fatal error LNK1120: 1 个无法解析的外部命令
